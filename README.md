@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Arduino for education 
 - 💞️ I’m looking to collaborate on ... Arduino and projects for experiments in  physics. 
 - 📫 How to reach me ... papades@sch.gr ...
--   °|°
+-  &nbsp; °|°
 -    <>
 -  / ♡ \
 -    /\
